@@ -1,4 +1,7 @@
+**LearningJavaATB12xProgram**
+
 Welcome to my Java Projects repository! This is a personal collection of Java programs that showcase my learning journey, experiments, and small-scale applications using the Java programming language.
+A collection of Java programs and projects ranging from basic syntax demonstrations to more advanced applications. This repository serves as a personal archive of practice code, algorithms, and small-scale Java-based applications built for learning and development purposes.
 
 ## 🧠 What's Inside
 
