@@ -1,0 +1,1 @@
+A collection of Java programs and projects ranging from basic syntax demonstrations to more advanced applications. This repository serves as a personal archive of practice code, algorithms, and small-scale Java-based applications built for learning and development purposes.
