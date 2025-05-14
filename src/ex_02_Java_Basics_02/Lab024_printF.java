@@ -19,5 +19,5 @@ public class Lab024_printF {
         System.out.printf("a = %d, b = %d", a, b);
         System.out.println();
         System.out.println("a = " + a + ", b = " + b);
-    }
+}
 }
